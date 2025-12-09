@@ -1,5 +1,6 @@
 # turtle_control
-对小海龟订阅pose实现闭环控制
+对小海龟订阅pose实现闭环控制——总共给出了C++版本和Python版本两种  
+README文件中以C++为例
 ---
 1. **打开海龟模拟器**  
   在Ubuntu桌面Ctrl+Alt+T打开终端输入`ros2 run turtlesim turtlesim_node`,出现小海龟模拟器。  
